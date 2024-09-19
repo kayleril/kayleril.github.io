@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://kayleril.github.io/files/CV_Final)
+[Curriculum Vitae (CV)](https://kayleril.github.io/files/CV_Final.pdf)
 
 I'm a 3rd year PhD student in Dr. Maria Coronel's lab.
